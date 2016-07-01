@@ -3,7 +3,7 @@
   (general
     (links 24)
     (no_connects 0)
-    (area 164.7775 102.0995 194.166667 121.995001)
+    (area 165.024999 104.064999 187.400001 121.995001)
     (thickness 1.6)
     (drawings 7)
     (tracks 105)
@@ -454,10 +454,10 @@
   (gr_line (start 187.325 121.92) (end 165.1 121.92) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 187.325 104.14) (end 187.325 121.92) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 165.1 104.14) (end 187.325 104.14) (angle 90) (layer Edge.Cuts) (width 0.15))
-  (gr_text GND (at 186.055 110.49 90) (layer F.SilkS)
+  (gr_text GND (at 186.182 115.57 90) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_text +5V (at 186.055 115.57 90) (layer F.SilkS)
+  (gr_text +5V (at 186.182 110.236 90) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
 
